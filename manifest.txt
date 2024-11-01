@@ -1,0 +1,4 @@
+NAME=Flipper Input Loggers
+ICON=I
+DESCRIPTION=Voltage and Current Logger for Flipper Zero
+AUTHOR=Alex Roque
